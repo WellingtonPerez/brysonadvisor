@@ -17,3 +17,8 @@
 	path = kelvingarger/freezegun
 	url = git@github.com:kelvingarger/freezegun.git
 	branch = master
+
+[submodule "kelvingarger/web"]
+	path = kelvingarger/web
+	url = git@github.com:kelvingarger/web.git
+	branch = 12.0

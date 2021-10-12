@@ -12,3 +12,8 @@
 	path = kelvingarger/Sales_Security
 	url = git@github.com:kelvingarger/Sales_Security.git
 	branch = 14.0
+
+[submodule "OCA/product-attribute"]
+	path = OCA/product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 14.0

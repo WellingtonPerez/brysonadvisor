@@ -7,3 +7,8 @@
 	path = kelvingarger/boraq_company_branches
 	url = git@github.com:kelvingarger/boraq_company_branches.git
 	branch = 12.0
+
+[submodule "kelvingarger/Sales_Security"]
+	path = kelvingarger/Sales_Security
+	url = git@github.com:kelvingarger/Sales_Security.git
+	branch = 14.0

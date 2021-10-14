@@ -22,3 +22,8 @@
 	path = kelvingarger/web
 	url = git@github.com:kelvingarger/web.git
 	branch = 12.0
+
+[submodule "kelvingarger/C_Credit"]
+	path = kelvingarger/C_Credit
+	url = git@github.com:kelvingarger/C_Credit.git
+	branch = 14.0

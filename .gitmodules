@@ -7,3 +7,23 @@
 	path = kelvingarger/boraq_company_branches
 	url = git@github.com:kelvingarger/boraq_company_branches.git
 	branch = 12.0
+
+[submodule "kelvingarger/calendar"]
+	path = kelvingarger/calendar
+	url = git@github.com:kelvingarger/calendar.git
+	branch = 12.0
+
+[submodule "kelvingarger/freezegun"]
+	path = kelvingarger/freezegun
+	url = git@github.com:kelvingarger/freezegun.git
+	branch = master
+
+[submodule "kelvingarger/web"]
+	path = kelvingarger/web
+	url = git@github.com:kelvingarger/web.git
+	branch = 12.0
+
+[submodule "kelvingarger/C_Credit"]
+	path = kelvingarger/C_Credit
+	url = git@github.com:kelvingarger/C_Credit.git
+	branch = 14.0
